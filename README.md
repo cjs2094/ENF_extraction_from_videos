@@ -16,7 +16,7 @@ This repository contains an implementation of the following paper submitted to \
   * Create two .txt files named `'nominalFreq'` and `'Tro'` and put them under the directory `./code_release/vids/iPhoneVideo_sample1/`
     * `'nominalFreq.txt'`: should contain a nominal ENF where your video was captured, i.e., 50 or 60
     * `'Tro.txt'`: should contain the camera read-out time for the device you used for capturing your video
-  * The entry point is the script file named `'main1_Figs.7.(a)(e)(d)(h)_Fig.10.m'`
+  * The entry point is the script file named `'main1_Figs7aedh10.m'`
   * For other videos, repeat the processes above
 
 ## Usage
