@@ -26,3 +26,6 @@ This repository contains an implementation of the following paper submitted to I
 [https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction-0](https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction-0), upzip it, and put each .mat file into the corresponding directory. For example, the mat file named `'rowSig_iPhoneVideo0.mat'` should be put under the directory `./code_release/vids/iPhoneVideo0/`
   * `'main2_Fig8.m'` quantatively compares two extraction methods
   * `'main3_Fig7cg'` compares practical scalar values versus theoretical scalar values for aliased ENF components
+
+## Contact
+Jisoo Choi, email: [cjs2094@gmail.com](cjs2094@gmail.com)
