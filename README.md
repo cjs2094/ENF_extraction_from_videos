@@ -3,7 +3,7 @@ This repository contains an implementation of the following paper submitted to I
 [Analysis of ENF Signal Extraction From Videos Acquired by Rolling Shutters](https://www.techrxiv.org/articles/preprint/Analysis_of_ENF_Signal_Extraction_From_Videos_Acquired_by_Rolling_Shutters/21300960)
 
 ## Requirement
-* Matlab
+Matlab
 
 ## Preparation
 * If you want to play with the dataset used in the paper, please download the video dataset named `'vids.zip'` from the following URL:
