@@ -7,7 +7,8 @@ This repository contains an implementation of the following paper:
 * Matlab
 
 ## Preparation
-* If you want to play with the dataset used in the paper, please download the video dataset named `'vids.zip'` from [here](https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction-0), upzip, and put it under the directory `./code_release/`
+* If you want to play with the dataset used in the paper, please download the video dataset named `'vids.zip'` from the following URL:
+[https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction-0](https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction-0), upzip, and put it under the directory `./code_release/`
 * If you want to examine your own video(s), get your own video(s) ready and follow the procedures below
   * Create a folder named `'vids'`under the directory `./code_release/`
   * Create a folder under the folder `'vids'` that should have the same filename as your video to be investigated. For example, your video is named `'iPhoneVideo_sample1.'` Then, the folder named `'iPhoneVideo_sample1'` is created and located under the directory `./code_release/vids/`
