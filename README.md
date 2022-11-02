@@ -1,6 +1,5 @@
 # Code for Analysis of ENF Signal Extraction From Videos Acquired by Rolling Shutters
-This repository contains an implementation of the following paper:
-
+This repository contains an implementation of the following paper submitted to \textit{IEEE Transactions on Information Forensics and Security (T-IFS)} and under review:
 [Analysis of ENF Signal Extraction From Videos Acquired by Rolling Shutters](https://www.techrxiv.org/articles/preprint/Analysis_of_ENF_Signal_Extraction_From_Videos_Acquired_by_Rolling_Shutters/21300960)
 
 ## Requirement
