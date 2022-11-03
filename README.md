@@ -1,10 +1,8 @@
 # Code for Analysis of ENF Signal Extraction From Videos Acquired by Rolling Shutters
-This repository contains an implementation of the following paper:
+This repository contains an implementation of the following paper (**DOI**: [10.36227/techrxiv.21300960.v1](https://doi.org/10.36227/techrxiv.21300960.v1)):
 
 Jisoo Choi, Chau-Wai Wong, Hui Su, and Min Wu, "[Analysis of ENF signal extraction from videos acquired by rolling shutters](https://www.techrxiv.org/articles/preprint/Analysis_of_ENF_Signal_Extraction_From_Videos_Acquired_by_Rolling_Shutters/21300960)," submitted to
 *IEEE Transactions on Information Forensics and Security (T-IFS)*, under review.
-
-**DOI**: [10.36227/techrxiv.21300960.v1](https://doi.org/10.36227/techrxiv.21300960.v1)
 
 If you used any of the code or the dataset, please cite our paper as listed above
 
