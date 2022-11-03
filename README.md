@@ -2,6 +2,13 @@
 This repository contains an implementation of the following paper:
 
 [Analysis of ENF Signal Extraction From Videos Acquired by Rolling Shutters](https://www.techrxiv.org/articles/preprint/Analysis_of_ENF_Signal_Extraction_From_Videos_Acquired_by_Rolling_Shutters/21300960)
+```bibtex
+Jisoo Choi, Chau-Wai Wong, Hui Su, and Min Wu, "[Analysis of ENF signal extraction from videos acquired by rolling shutters](https://www.techrxiv.org/articles/preprint/Analysis_of_ENF_Signal_Extraction_From_Videos_Acquired_by_Rolling_Shutters/21300960)," submitted to
+*IEEE Transactions on Information Forensics and Security (T-IFS)*, under review.
+```
+[DOI: 10.36227/techrxiv.21300960.v1](https://doi.org/10.36227/techrxiv.21300960.v1)
+
+If you used any of the code or the dataset, please cite our paper as listed above
 
 ## Requirement
 Matlab
@@ -27,12 +34,6 @@ Matlab
   * `'main2_Fig8.m'` quantatively compares two extraction methods
   * `'main3_Fig7cg'` compares practical scalar values versus theoretical scalar values for aliased ENF components
 * For your own video(s), the entry point is the script file named `'main1_Figs7aedh10.m'`. Run the entire sections in the script to draw spectrograms and extract ENF signals
-
-## Citation
-If you used any of the code or the dataset, please cite our paper as:
-
-Jisoo Choi, Chau-Wai Wong, Hui Su, and Min Wu, "[Analysis of ENF signal extraction from videos acquired by rolling shutters](https://www.techrxiv.org/articles/preprint/Analysis_of_ENF_Signal_Extraction_From_Videos_Acquired_by_Rolling_Shutters/21300960)," submitted to
-*IEEE Transactions on Information Forensics and Security (T-IFS)*, under review.
 
 ## Contact
 Jisoo Choi, email: [cjs2094@gmail.com](cjs2094@gmail.com)
