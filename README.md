@@ -29,7 +29,7 @@ Matlab
 * For your own video(s), the entry point is the script file named `'main1_Figs7aedh10.m'`. Run the entire sections in the script to draw spectrograms and extract ENF signals
 
 ## Citation
-If you used any of the code of the dataset, please cite our paper as:
+If you used any of the code or the dataset, please cite our paper as:
 
 Jisoo Choi, Chau-Wai Wong, Hui Su, and Min Wu, "[Analysis of ENF signal extraction from videos acquired by rolling shutters](https://www.techrxiv.org/articles/preprint/Analysis_of_ENF_Signal_Extraction_From_Videos_Acquired_by_Rolling_Shutters/21300960)," submitted to
 *IEEE Transactions on Information Forensics and Security (T-IFS)*, under review.
