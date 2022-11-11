@@ -18,8 +18,8 @@ Matlab
   * Put your video under the directory `./code_release/vids/iPhoneVideo_sample1/`
   * If you have a power reference signal for your video, name it `'power_YourVideoFileName'`, i.e., `'power_iPhoneVideo_sample1'`, and put it under the directory `./code_release/vids/iPhoneVideo_sample1/`
   * Create two .txt files named `'nominalFreq'` and `'Tro'` and put them under the directory `./code_release/vids/iPhoneVideo_sample1/`
-    * `'nominalFreq.txt'`: should contain a nominal ENF where your video was captured, i.e., 50 or 60
-    * `'Tro.txt'`: should contain the camera read-out time for the device you used for capturing your video
+    1) `'nominalFreq.txt'`: should contain a nominal ENF where your video was captured, i.e., 50 or 60
+    2) `'Tro.txt'`: should contain the camera read-out time for the device you used for capturing your video
   * For other videos, repeat the processes above
 
 ## Usage
