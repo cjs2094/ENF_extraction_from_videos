@@ -23,7 +23,7 @@ Matlab
   * For other videos, repeat the processes above
 
 ## Usage
-* For the dataset used in the paper, open each script file named `'main1_Figs7aedh10.m'`, `'main2_Fig8.m'`, and `'main3_Fig7cg'` and run sequentially each section divided by %%
+* For the dataset used in the paper, open each script file named `'main1_Figs7aedh10.m'`, `'main2_Fig8.m'`, and `'main3_Fig7cg.m'` and run sequentially each section divided by %%
   * `'main1_Figs7aedh10.m'` draws spectrograms and extract ENF signals
     * NOTE: The second section starting with "[step 1]" generates .mat files, which may take some time. If you want to avoid the wait, download the mat file dataset named `'mats.zip'` for the video dataset `'vids'` from the following URL:
 [https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction-0](https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction-0), upzip it, and put each .mat file into the corresponding directory. For example, the mat file named `'rowSig_iPhoneVideo0.mat'` should be put under the directory `./code_release/vids/iPhoneVideo0/`
