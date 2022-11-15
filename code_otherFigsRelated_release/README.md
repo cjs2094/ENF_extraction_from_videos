@@ -4,4 +4,4 @@
 
 
 ## Usage
-* For the dataset used in the paper, open each script file named `'main1_Figs7aedh10.m'`, `'main2_Fig8.m'`, and `'main3_Fig7cg.m'` and run sequentially each section divided by %% to produce figures in the paper
+* For the dataset used in the paper, open each script file named `'main1_fig1de.m'`, `'main2_fig3_simulateUsingVoltageMeasurement.m'`, `'main3_fig4_genSimulatedPixelIntensitySignals.m'`, `'main4_fig5c_overlayENFsigs.m'`, and `'main5_fig7.m'` and run sequentially each section divided by %% to produce figures in the paper
