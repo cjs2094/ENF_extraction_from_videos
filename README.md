@@ -11,7 +11,7 @@ Matlab
 
 ## Preparation
 * If you want to play with the dataset used in the paper, please download the video dataset named `'vids.zip'` from the following URL:
-[https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction-0](https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction-0), upzip, and put it under the directory `./code_release/`
+[https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction](https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction), upzip, and put it under the directory `./code_release/`
 * If you want to examine your own video(s), get your own video(s) ready and follow the procedures below
   * Create a folder named `'vids'`under the directory `./code_release/`
   * Create a folder under the folder `'vids'` that should have the same filename as your video to be investigated. For example, your video is named `'iPhoneVideo_sample1.'` Then, the folder named `'iPhoneVideo_sample1'` is created and located under the directory `./code_release/vids/`
@@ -26,7 +26,7 @@ Matlab
 * For the dataset used in the paper, open each script file named `'main1_Figs7aedh10.m'`, `'main2_Fig8.m'`, and `'main3_Fig7cg.m'` and run sequentially each section divided by %%
   * `'main1_Figs7aedh10.m'` draws spectrograms and extract ENF signals
     * NOTE: The second section starting with "[step 1]" generates .mat files, which may take some time. If you want to avoid the wait, download the mat file dataset named `'mats.zip'` for the video dataset `'vids'` from the following URL:
-[https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction-0](https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction-0), upzip it, and put each .mat file into the corresponding directory. For example, the mat file named `'rowSig_iPhoneVideo0.mat'` should be put under the directory `./code_release/vids/iPhoneVideo0/`
+[https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction](https://ieee-dataport.org/documents/rolling-shutter-videos-enf-extraction), upzip it, and put each .mat file into the corresponding directory. For example, the mat file named `'rowSig_iPhoneVideo0.mat'` should be put under the directory `./code_release/vids/iPhoneVideo0/`
   * `'main2_Fig8.m'` quantatively compares two extraction methods
   * `'main3_Fig7cg'` compares practical scalar values versus theoretical scalar values for aliased ENF components
 * For your own video(s), the entry point is the script file named `'main1_Figs7aedh10.m'`. Run the entire sections in the script to draw spectrograms and extract ENF signals
